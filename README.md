@@ -1,2 +1,2 @@
 # firstproject
-this is different from branch readme
+this is different from master readme
